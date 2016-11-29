@@ -1,2 +1,2 @@
 <?php
-echo "Hello, Are you updated";
+echo "How are you";
